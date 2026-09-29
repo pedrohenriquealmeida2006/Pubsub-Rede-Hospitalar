@@ -13,7 +13,7 @@ Ana Paula Rezende
 - Alan Gonçalves Nogueira
 - Henrique Porto Viana
 
-##Problema/Cenário
+## Problema/Cenário
 O projeto simula uma rede hospitalar e o monitoramento de pacientes, utilizando o padrão Pub/Sub para facilitar a comunicação entre diferentes sistemas. Equipamentos e sistemas hospitalares publicam informações em tópicos, como sinais vitais críticos, disponibilidade de leitos e situações de emergência. Essas mensagens são recebidas pelos setores interessados, como a equipe médica e a Central de Regulação de Leitos, sem que os sistemas precisem se comunicar diretamente.
 
 ## Como executar
